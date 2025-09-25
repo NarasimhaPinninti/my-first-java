@@ -71,7 +71,7 @@
     <repositories>
         <repository>
             <id>central</id>
-            <url>http://16.170.251.6:8081/repository/maven-snapshots/</url>
+            <url>http://repo.maven.apache.org/maven2</url>
         </repository>
     </repositories>
 
